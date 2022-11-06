@@ -1,6 +1,6 @@
 import React, { useId } from "react";
 import { useState } from "react";
-import data from "../../StepOutput.json";
+import data from "../StepOutput.json";
 import { Dialog } from "./alert-dialog";
 import { ScoreBoard } from "./score-board";
 import { AnswersPage } from "./answers-page";
